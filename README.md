@@ -42,7 +42,6 @@
 
 ### 👉 Frameworks
 <p align="left"> 
-&emsp;
   <a href="/" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-D00000?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
