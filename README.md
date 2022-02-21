@@ -1,10 +1,6 @@
 
 # Hi! Ashish Here👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-bhavesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshchoudhary)](https://www.linkedin.com/in/bhaveshchoudhary)  [![Website Badge](https://img.shields.io/badge/-probhavesh-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://bhavesh.pro/)
-
-[![Twitter Badge](https://img.shields.io/badge/-@desiDevX3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/desiDevX3)](https://twitter.com/desiDevX3)  [![Gmail Badge](https://img.shields.io/badge/-probhavsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:probhavsh@gmail.com)
-
 # About🧐
 
 <h3> Here's some fun facts about me: </h3>
@@ -62,10 +58,7 @@
      <img alt="React" src="https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=react&logoColor=white">
    </a>
   &emsp;
-  <a href="/" target="_blank"> 
-   <img alt="Express" src="https://img.shields.io/badge/Express-FF6F00?style=for-the-badge&logo=express&logoColor=white">
-  </a>   
-  &emsp;
+
   <a href="/" target="_blank">
     <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-F7931E?style=for-the-badge&logo=tailwindcss&logoColor=white">
   </a> 
