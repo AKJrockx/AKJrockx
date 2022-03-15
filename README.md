@@ -3,13 +3,6 @@
 
 # About🧐
 
-<h3> Here's some fun facts about me: </h3>
-
-- 🔭 I’m currently working on Dapps on Solana blockchain
-- 🌱 I've 1.5+ years of exoerience in full stack development
-- 👯 I’m looking to collaborate on Solana projects (Rust especially).
-- 🤔 I’m also working as a Freelancer at Upwork and Fiverr.
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
