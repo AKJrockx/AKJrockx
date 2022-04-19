@@ -3,6 +3,7 @@
 
 # About🧐
 
+![Visitor Count](https://profile-counter.glitch.me/AKJrockx/count.svg)
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
